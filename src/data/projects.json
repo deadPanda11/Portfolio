@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Whip-Up",
+    "imageSrc": "projects/whipup.jpg",
+    "description": "A mobile app for recipe sharing and discovery with a hands-free virtual assistant.",
+    "skills": ["Flutter", "FastAPI", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deadPanda11/whip_up"
+  },
+  {
+    "title": "Thrift Basket",
+    "imageSrc": "projects/thrift.jpg",
+    "description": "A web platform for buying and selling secondhand clothing and footwear.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deadPanda11/thrift-basket"
+  },
+  {
+    "title": "MelodyMix",
+    "imageSrc": "projects/melody.webp",
+    "description": "A web app for creating and sharing personalized music playlists.",
+    "skills": ["Node", "Express", "MongoDB", "Html", "EJS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deadPanda11/SWE_4538_Project"
+  },
+  {
+    "title": "Food Delivery App",
+    "imageSrc": "projects/food.jpg",
+    "description": "A Figma design project for a food delivery service app.",
+    "skills": ["Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://www.figma.com/design/yVPwWNgfXa34Xi3bn8dGAh/Food-Delivery-App?node-id=0-1&t=BDjjpvFq9CnYaSCX-1"
+  },
+  {
+    "title": "Intuition",
+    "imageSrc": "projects/intuition.jpg",
+    "description": "A website connecting students with tutors for various subjects.",
+    "skills": ["Html", "CSS", "PHP", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deadPanda11/Project-Intuition"
+  },
+  {
+    "title": "Pharmacy Management System",
+    "imageSrc": "projects/pharmacy.webp",
+    "description": "A web application for managing pharmacy operations and inventory.",
+    "skills": ["Html", "CSS", "PHP", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/deadPanda11/PharmacyManagementSystem"
+  }
+]
